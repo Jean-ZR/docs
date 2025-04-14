@@ -53,6 +53,16 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Pro 7",
+        "groups": [
+          {
+            "group": "Sistema Pro 7",
+            "pages": [
+              "pro-7/intro"
+          }
+        ]
       }
     ],
     "global": {
