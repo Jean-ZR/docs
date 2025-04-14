@@ -72,6 +72,14 @@
               "pro-7/instalaciones/plugin-api",
               "pro-7/instalaciones/instalacion-mozo-cpanel"
             ]
+          },
+          {
+            "group": "Mozo APP",
+            "pages": [
+              "pro-7/mozo/introduccion",
+              "pro-7/mozo/pos",
+              "pro-7/mozo/mesas"
+            ]
           }
         ]
       }
