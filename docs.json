@@ -62,6 +62,16 @@
             "pages": [
               "pro-7/intro"
             ]
+          },
+          {
+            "group": "Instalaciones",
+            "pages": [
+              "pro-7/instalaciones/windows",
+              "pro-7/instalaciones/docker-linux",
+              "pro-7/instalaciones/instalar-ssl",
+              "pro-7/instalaciones/plugin-api",
+              "pro-7/instalaciones/instalacion-mozo-cpanel"
+            ]
           }
         ]
       }
